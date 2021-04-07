@@ -1,0 +1,12 @@
+﻿{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Spoomer",
+  "classifications": [ "ASP.NET", "WEB-API", "Local-Authentication" ],
+  "identity": "WEB-API-Template.Auth",
+  "name": "WEB-API templates: incl. local authentication with sqlite",
+  "shortName": "webapiauth",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}

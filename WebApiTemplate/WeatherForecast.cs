@@ -1,6 +1,6 @@
 using System;
 
-namespace WebApiTest
+namespace WebApiTemplate
 {
     public class WeatherForecast
     {

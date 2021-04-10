@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace WebApiTest.Migrations
+namespace WebApiTemplate.Migrations
 {
     public partial class Initial : Migration
     {

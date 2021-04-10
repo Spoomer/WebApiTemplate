@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace WebApiTest.Controllers
+namespace WebApiTemplate.Controllers
 {
     [Authorize]
     [ApiController]

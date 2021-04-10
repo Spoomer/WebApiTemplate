@@ -9,9 +9,9 @@ using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
 using System.Threading.Tasks;
-using WebApiTest.Authentication;
+using WebApiTemplate.Authentication;
 
-namespace WebApiTest.Controllers
+namespace WebApiTemplate.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
